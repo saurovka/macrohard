@@ -1,2 +1,2 @@
 # Macrohard
-A place holder for IBM Software Lab work related stuff
+A place holder for research work
